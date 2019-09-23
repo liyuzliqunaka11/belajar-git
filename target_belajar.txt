@@ -1,2 +1,4 @@
-senin : boostrap,git
-selasa : SIM.
+Senin : boostrap,git
+Selasa : SIM (Sistem Informasi Manajemen)
+Rabu : PBO
+Kamis : GNS 3
