@@ -1,4 +1,8 @@
-Senin : boostrap,git
+Senin : GIT (Branch, Merge)
+Senin : Desain Antarmuka (Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
-Rabu : PBO
+
 Kamis : GNS 3
+Jum'at : Triger DB
+Sabtu : Eriawan Tugas Kelompok UI
+Minggu : Eriawan Tugas Kelompok Basis Data Lanjut
