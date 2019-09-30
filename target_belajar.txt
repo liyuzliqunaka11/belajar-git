@@ -5,3 +5,6 @@ Kamis : GNS 3
 Jum'at : Triger DB
 Sabtu : Eriawan Tugas kelompok UI
 Minggu : Eriawan Tugas kelompok basis data lanjut
+
+
+INI DI MASTER
